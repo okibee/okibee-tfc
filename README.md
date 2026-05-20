@@ -13,7 +13,7 @@ you go in [[Versions]](https://modrinth.com/modpack/okibee-tfc/versions) and cli
 
 ### what if i dont have a modpack manager to open .mrpack files
 
-you can go in [[Versions]](https://modrinth.com/modpack/okibee-tfc/versions) and scroll down to files to install a .zip with all the mods predownloaded (but you would have to update the modpack manually afterwards)
+you can go in [[Releases]](https://github.com/okibee/okibee-tfc/releases) and scroll down to files to install a .zip with all the mods predownloaded (but you would have to update the modpack manually afterwards)
 
 ### where do i report issues
 
