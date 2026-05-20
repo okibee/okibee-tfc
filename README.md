@@ -1,7 +1,7 @@
 # okibee-tfc
 want a pure terrafirmacraft experience with all of (or almost) the client-sided mods u could ever need? then Okibee TFC is made for you!
 ### what is a terrafirmacraft
-i quote:
+quote from [[TFC's modrinth page]](https://modrinth.com/mod/terrafirmacraft):
 
 > TerraFirmaCraft (TFC) is a total conversion mod that overhauls and reinvents survival mode. The goal of the mod is to create a believable, challenging survival experience, in a brand new immersive setting. It completely overhauls Minecraft world generation - from adding continents, to flowing rivers, to mountain ranges, to varied and diverse forests, flora, and fauna.
 
