@@ -1,0 +1,10 @@
+syncChunkWrites:false
+simulationDistance:8
+enableVsync:false
+maxFps:260
+fullscreen:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+menuBackgroundBlurriness:0
+guiScale:3
